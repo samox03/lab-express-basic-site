@@ -1,0 +1,41 @@
+body {
+    color: blue;
+    background-color: bisque;
+    background-image: url("../images/pl-smile.png");
+    background-repeat: repeat;
+  }
+
+
+.navbar{
+    width: 100%;
+}
+
+.navbar-brand{
+    font-size: 30px;
+}
+
+.container-fluid{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.slide{
+    margin: 80px 32px
+}
+
+.carousel-caption{
+    font-size: 22px;
+}
+
+h1{
+    color:rgb(8, 5, 0);
+    margin: 230px 30px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.card-text{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 32px;
+}
